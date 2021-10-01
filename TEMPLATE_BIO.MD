@@ -13,7 +13,7 @@ Provinsi , Kota
 ### Hobi
 
  > *__-__ Olahraga<br>*
-- Ngopi
+> *__-__ Ngopi<br>*
 
 
 ### Bahasa Pemograman 

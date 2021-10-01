@@ -1,24 +1,25 @@
 # Nama
 Namamu
-
+Agung sesar pamungkas
 <img src="https://urlgambafotomu" width="200" height="200" align="center"/>
 
 ### Provinsi & Kota
 
 Provinsi , Kota
-
+Jawabarat, indramayu
 ### Sekolah / Akademik
-
+Sekolah
 
 ### Hobi
 
-- Begadang
+- Olahraga
+- Ngopi
 
 
 ### Bahasa Pemograman 
 
-- Javascript
-- HTML
+- Python
+
 
 ### Project
 
@@ -26,4 +27,4 @@ Provinsi , Kota
 
 ### Profile Link
 
-[Nama](https://github.com/usernamekamu)
+[Agung](https://github.com/)

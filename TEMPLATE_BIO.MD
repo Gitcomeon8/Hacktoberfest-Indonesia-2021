@@ -1,24 +1,24 @@
 ### Nama
 
-> *__$__- Agung sesar pamungkas<br>*
+> *__-__ Agung sesar pamungkas<br>*
 
 
 ### Provinsi & Kota
 
 Provinsi , Kota
-> *__$__- Jawa barat, indramayu<br>*
+> *__-__ Jawa barat, indramayu<br>*
 ### Sekolah / Akademik
-> *__$__- Sekolah Menengah kejuruan<br>*
+> *__-__ Sekolah Menengah kejuruan<br>*
 
 ### Hobi
 
- > *__$__- Olahraga<br>*
+ > *__-__ Olahraga<br>*
 - Ngopi
 
 
 ### Bahasa Pemograman 
 
-> *__$__- Python<br>*
+> *__-__ Python<br>*
 
 
 ### Project
